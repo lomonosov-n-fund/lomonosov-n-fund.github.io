@@ -3,6 +3,8 @@
 vendor
 Gemfile.lock
 
+draft*
+
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
