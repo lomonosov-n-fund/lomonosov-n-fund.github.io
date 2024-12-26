@@ -33,7 +33,7 @@ _Цифровые подписи решают часть проблемы, но 
 
 _Полная версия документа доступна для скачивания по ссылке:_
 
-_[http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)_
+_[https://www.bitcoin.org/bitcoin.pdf](https://www.bitcoin.org/bitcoin.pdf)_
 
 _Сатоши_
 
